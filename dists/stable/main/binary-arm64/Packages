@@ -1,0 +1,16 @@
+Package: yaver
+Version: 1.25.0
+Architecture: arm64
+Maintainer: Yaver <packages@yaver.io>
+Filename: pool/main/yaver_1.25.0_arm64.deb
+Size: 5817282
+MD5sum: fac8512cc254783dd36118a59a5f479a
+SHA1: b1268fdfe5aeff85714771537b42f059d7238312
+SHA256: 62a7d5d485aeef3573f764cec442fcb0b2f4be058bcad4fd8b1815baccb1613a
+Section: devel
+Priority: optional
+Homepage: https://yaver.io
+Description: Run AI coding agents from your phone
+ Claude Code, Codex, Aider, or custom — from anywhere.
+ Your code never leaves your devices.
+
