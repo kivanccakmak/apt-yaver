@@ -5,3 +5,24 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Yaver CLI apt repository
+Date: Sat, 18 Apr 2026 10:03:25 +0000
+MD5Sum:
+ 86538e590982ac92f34493a341fad045              474 main/binary-amd64/Packages
+ 25391a290e31e7887d213244b57121ba              374 main/binary-amd64/Packages.gz
+ 2e937289e4c568f7b4f4e8db87dd64a0              473 main/binary-arm64/Packages
+ 9526028d2bbe31de55f9fed02b440a4b              379 main/binary-arm64/Packages.gz
+SHA1:
+ 98aba5a4c049775567cd8ae222c2cea81b1be56d              474 main/binary-amd64/Packages
+ 912376c44c77f1ffd538ef24e7c927ee475cb4b2              374 main/binary-amd64/Packages.gz
+ 2852dc987815f2c75f057bed8615643e91e2738f              473 main/binary-arm64/Packages
+ 55c93ebfa3eca5925b3ebc67739886c0bee2611f              379 main/binary-arm64/Packages.gz
+SHA256:
+ cbe59d4efa5491336efe448be8bc5e87ba7c788deeb257857dd76a54eb4da89a              474 main/binary-amd64/Packages
+ 8c48ce674f2ab8aa1cba769a0276c07678c65a9c3e20d884b06719f04c15de14              374 main/binary-amd64/Packages.gz
+ 06ae2ddffb842562e16fe65ebcc37c998c0e1fbecd2749cc1f52cc207d4d0b55              473 main/binary-arm64/Packages
+ 3b86589a26dc0e711dd9f38099a4128041180accfd5c3fb099fa8ad705a7e552              379 main/binary-arm64/Packages.gz
+SHA512:
+ 0352a5339e0dafbc1dc95dd419d2d3e684274d4e962ac9e03f32a6644a8919d26bff6aaa92cd6923fac399300a36c336eb7c6d15a38d4ea36a0ebc9f4bd587e5              474 main/binary-amd64/Packages
+ 9fad324170b5dea207a3bf33803f9b7cace2b2c6b11544f4f35db3040e21724074610d25b72b809eeb3437dd8ad2d7ebd0c3d32811f49d0f33672648853f813f              374 main/binary-amd64/Packages.gz
+ b4ed5d995c280dc695313e27681c3e70fe64a75d42726fb0625565a051ff6c9df03d3935c92d571e0a01f7481323a7cdf4fc43abbc49466688ac4b32ef3ee4c7              473 main/binary-arm64/Packages
+ 24cf0a56d7b05bd802a348f3e4c25f1b83f5ed205c38b85efefbb70af9f56aec55f0609f88240e540f188681129676f2708d5b42ad42c4fb293a0206f1642500              379 main/binary-arm64/Packages.gz
