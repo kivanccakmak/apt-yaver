@@ -1,14 +1,14 @@
 Package: yaver
-Version: 1.99.1
+Version: 1.99.2
 Architecture: arm64
 Maintainer: Yaver <packages@yaver.io>
 Depends: nodejs (>= 18)
 Recommends: npm
-Filename: pool/main/yaver_1.99.1_arm64.deb
-Size: 9560782
-MD5sum: e90fb9da4734008fac569adc41816064
-SHA1: 2f261e054c42f0a9d514b392b4f20e8968715138
-SHA256: 65629196d53b093aff6fa013da4265c29186bdcd7f7c22f5a92b42167c26e5b3
+Filename: pool/main/yaver_1.99.2_arm64.deb
+Size: 9565862
+MD5sum: 89d64d59c21e29c56d15f90084253add
+SHA1: 35553e9ffdf46c5c284926fc4c1a3834b3fea6e0
+SHA256: 19c7cb0049f9cd31dd4d69d0d9833a8ce44a463bde5f51607749496a763059b9
 Section: devel
 Priority: optional
 Homepage: https://yaver.io
